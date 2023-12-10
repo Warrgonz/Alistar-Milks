@@ -1,0 +1,8 @@
+# Ignorar archivos .log
+*.log
+
+# Ignorar la carpeta node_modules
+/node_modules
+
+# Ignorar archivos .log
+/.vscode
